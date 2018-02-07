@@ -1,0 +1,5228 @@
+fileFormatVersion: 2
+guid: 0dc3742e78e5cf047ab6402f87af0aa7
+timeCreated: 1516190966
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RPG_Game_Icons1_0
+    21300002: RPG_Game_Icons1_1
+    21300004: RPG_Game_Icons1_2
+    21300006: RPG_Game_Icons1_3
+    21300008: RPG_Game_Icons1_4
+    21300010: RPG_Game_Icons1_5
+    21300012: RPG_Game_Icons1_6
+    21300014: RPG_Game_Icons1_7
+    21300016: RPG_Game_Icons1_8
+    21300018: RPG_Game_Icons1_9
+    21300020: RPG_Game_Icons1_10
+    21300022: RPG_Game_Icons1_11
+    21300024: RPG_Game_Icons1_12
+    21300026: RPG_Game_Icons1_13
+    21300028: RPG_Game_Icons1_14
+    21300030: RPG_Game_Icons1_15
+    21300032: RPG_Game_Icons1_16
+    21300034: RPG_Game_Icons1_17
+    21300036: RPG_Game_Icons1_18
+    21300038: RPG_Game_Icons1_19
+    21300040: RPG_Game_Icons1_20
+    21300042: RPG_Game_Icons1_21
+    21300044: RPG_Game_Icons1_22
+    21300046: RPG_Game_Icons1_23
+    21300048: RPG_Game_Icons1_24
+    21300050: RPG_Game_Icons1_25
+    21300052: RPG_Game_Icons1_26
+    21300054: RPG_Game_Icons1_27
+    21300056: RPG_Game_Icons1_28
+    21300058: RPG_Game_Icons1_29
+    21300060: RPG_Game_Icons1_30
+    21300062: RPG_Game_Icons1_31
+    21300064: RPG_Game_Icons1_32
+    21300066: RPG_Game_Icons1_33
+    21300068: RPG_Game_Icons1_34
+    21300070: RPG_Game_Icons1_35
+    21300072: RPG_Game_Icons1_36
+    21300074: RPG_Game_Icons1_37
+    21300076: RPG_Game_Icons1_38
+    21300078: RPG_Game_Icons1_39
+    21300080: RPG_Game_Icons1_40
+    21300082: RPG_Game_Icons1_41
+    21300084: RPG_Game_Icons1_42
+    21300086: RPG_Game_Icons1_43
+    21300088: RPG_Game_Icons1_44
+    21300090: RPG_Game_Icons1_45
+    21300092: RPG_Game_Icons1_46
+    21300094: RPG_Game_Icons1_47
+    21300096: RPG_Game_Icons1_48
+    21300098: RPG_Game_Icons1_49
+    21300100: RPG_Game_Icons1_50
+    21300102: RPG_Game_Icons1_51
+    21300104: RPG_Game_Icons1_52
+    21300106: RPG_Game_Icons1_53
+    21300108: RPG_Game_Icons1_54
+    21300110: RPG_Game_Icons1_55
+    21300112: RPG_Game_Icons1_56
+    21300114: RPG_Game_Icons1_57
+    21300116: RPG_Game_Icons1_58
+    21300118: RPG_Game_Icons1_59
+    21300120: RPG_Game_Icons1_60
+    21300122: RPG_Game_Icons1_61
+    21300124: RPG_Game_Icons1_62
+    21300126: RPG_Game_Icons1_63
+    21300128: RPG_Game_Icons1_64
+    21300130: RPG_Game_Icons1_65
+    21300132: RPG_Game_Icons1_66
+    21300134: RPG_Game_Icons1_67
+    21300136: RPG_Game_Icons1_68
+    21300138: RPG_Game_Icons1_69
+    21300140: RPG_Game_Icons1_70
+    21300142: RPG_Game_Icons1_71
+    21300144: RPG_Game_Icons1_72
+    21300146: RPG_Game_Icons1_73
+    21300148: RPG_Game_Icons1_74
+    21300150: RPG_Game_Icons1_75
+    21300152: RPG_Game_Icons1_76
+    21300154: RPG_Game_Icons1_77
+    21300156: RPG_Game_Icons1_78
+    21300158: RPG_Game_Icons1_79
+    21300160: RPG_Game_Icons1_80
+    21300162: RPG_Game_Icons1_81
+    21300164: RPG_Game_Icons1_82
+    21300166: RPG_Game_Icons1_83
+    21300168: RPG_Game_Icons1_84
+    21300170: RPG_Game_Icons1_85
+    21300172: RPG_Game_Icons1_86
+    21300174: RPG_Game_Icons1_87
+    21300176: RPG_Game_Icons1_88
+    21300178: RPG_Game_Icons1_89
+    21300180: RPG_Game_Icons1_90
+    21300182: RPG_Game_Icons1_91
+    21300184: RPG_Game_Icons1_92
+    21300186: RPG_Game_Icons1_93
+    21300188: RPG_Game_Icons1_94
+    21300190: RPG_Game_Icons1_95
+    21300192: RPG_Game_Icons1_96
+    21300194: RPG_Game_Icons1_97
+    21300196: RPG_Game_Icons1_98
+    21300198: RPG_Game_Icons1_99
+    21300200: RPG_Game_Icons1_100
+    21300202: RPG_Game_Icons1_101
+    21300204: RPG_Game_Icons1_102
+    21300206: RPG_Game_Icons1_103
+    21300208: RPG_Game_Icons1_104
+    21300210: RPG_Game_Icons1_105
+    21300212: RPG_Game_Icons1_106
+    21300214: RPG_Game_Icons1_107
+    21300216: RPG_Game_Icons1_108
+    21300218: RPG_Game_Icons1_109
+    21300220: RPG_Game_Icons1_110
+    21300222: RPG_Game_Icons1_111
+    21300224: RPG_Game_Icons1_112
+    21300226: RPG_Game_Icons1_113
+    21300228: RPG_Game_Icons1_114
+    21300230: RPG_Game_Icons1_115
+    21300232: RPG_Game_Icons1_116
+    21300234: RPG_Game_Icons1_117
+    21300236: RPG_Game_Icons1_118
+    21300238: RPG_Game_Icons1_119
+    21300240: RPG_Game_Icons1_120
+    21300242: RPG_Game_Icons1_121
+    21300244: RPG_Game_Icons1_122
+    21300246: RPG_Game_Icons1_123
+    21300248: RPG_Game_Icons1_124
+    21300250: RPG_Game_Icons1_125
+    21300252: RPG_Game_Icons1_126
+    21300254: RPG_Game_Icons1_127
+    21300256: RPG_Game_Icons1_128
+    21300258: RPG_Game_Icons1_129
+    21300260: RPG_Game_Icons1_130
+    21300262: RPG_Game_Icons1_131
+    21300264: RPG_Game_Icons1_132
+    21300266: RPG_Game_Icons1_133
+    21300268: RPG_Game_Icons1_134
+    21300270: RPG_Game_Icons1_135
+    21300272: RPG_Game_Icons1_136
+    21300274: RPG_Game_Icons1_137
+    21300276: RPG_Game_Icons1_138
+    21300278: RPG_Game_Icons1_139
+    21300280: RPG_Game_Icons1_140
+    21300282: RPG_Game_Icons1_141
+    21300284: RPG_Game_Icons1_142
+    21300286: RPG_Game_Icons1_143
+    21300288: RPG_Game_Icons1_144
+    21300290: RPG_Game_Icons1_145
+    21300292: RPG_Game_Icons1_146
+    21300294: RPG_Game_Icons1_147
+    21300296: RPG_Game_Icons1_148
+    21300298: RPG_Game_Icons1_149
+    21300300: RPG_Game_Icons1_150
+    21300302: RPG_Game_Icons1_151
+    21300304: RPG_Game_Icons1_152
+    21300306: RPG_Game_Icons1_153
+    21300308: RPG_Game_Icons1_154
+    21300310: RPG_Game_Icons1_155
+    21300312: RPG_Game_Icons1_156
+    21300314: RPG_Game_Icons1_157
+    21300316: RPG_Game_Icons1_158
+    21300318: RPG_Game_Icons1_159
+    21300320: RPG_Game_Icons1_160
+    21300322: RPG_Game_Icons1_161
+    21300324: RPG_Game_Icons1_162
+    21300326: RPG_Game_Icons1_163
+    21300328: RPG_Game_Icons1_164
+    21300330: RPG_Game_Icons1_165
+    21300332: RPG_Game_Icons1_166
+    21300334: RPG_Game_Icons1_167
+    21300336: RPG_Game_Icons1_168
+    21300338: RPG_Game_Icons1_169
+    21300340: RPG_Game_Icons1_170
+    21300342: RPG_Game_Icons1_171
+    21300344: RPG_Game_Icons1_172
+    21300346: RPG_Game_Icons1_173
+    21300348: RPG_Game_Icons1_174
+    21300350: RPG_Game_Icons1_175
+    21300352: RPG_Game_Icons1_176
+    21300354: RPG_Game_Icons1_177
+    21300356: RPG_Game_Icons1_178
+    21300358: RPG_Game_Icons1_179
+    21300360: RPG_Game_Icons1_180
+    21300362: RPG_Game_Icons1_181
+    21300364: RPG_Game_Icons1_182
+    21300366: RPG_Game_Icons1_183
+    21300368: RPG_Game_Icons1_184
+    21300370: RPG_Game_Icons1_185
+    21300372: RPG_Game_Icons1_186
+    21300374: RPG_Game_Icons1_187
+    21300376: RPG_Game_Icons1_188
+    21300378: RPG_Game_Icons1_189
+    21300380: RPG_Game_Icons1_190
+    21300382: RPG_Game_Icons1_191
+    21300384: RPG_Game_Icons1_192
+    21300386: RPG_Game_Icons1_193
+    21300388: RPG_Game_Icons1_194
+    21300390: RPG_Game_Icons1_195
+    21300392: RPG_Game_Icons1_196
+    21300394: RPG_Game_Icons1_197
+    21300396: RPG_Game_Icons1_198
+    21300398: RPG_Game_Icons1_199
+    21300400: RPG_Game_Icons1_200
+    21300402: RPG_Game_Icons1_201
+    21300404: RPG_Game_Icons1_202
+    21300406: RPG_Game_Icons1_203
+    21300408: RPG_Game_Icons1_204
+    21300410: RPG_Game_Icons1_205
+    21300412: RPG_Game_Icons1_206
+    21300414: RPG_Game_Icons1_207
+    21300416: RPG_Game_Icons1_208
+    21300418: RPG_Game_Icons1_209
+    21300420: RPG_Game_Icons1_210
+    21300422: RPG_Game_Icons1_211
+    21300424: RPG_Game_Icons1_212
+    21300426: RPG_Game_Icons1_213
+    21300428: RPG_Game_Icons1_214
+    21300430: RPG_Game_Icons1_215
+    21300432: RPG_Game_Icons1_216
+    21300434: RPG_Game_Icons1_217
+    21300436: RPG_Game_Icons1_218
+    21300438: RPG_Game_Icons1_219
+    21300440: RPG_Game_Icons1_220
+    21300442: RPG_Game_Icons1_221
+    21300444: RPG_Game_Icons1_222
+    21300446: RPG_Game_Icons1_223
+    21300448: RPG_Game_Icons1_224
+    21300450: RPG_Game_Icons1_225
+    21300452: RPG_Game_Icons1_226
+    21300454: RPG_Game_Icons1_227
+    21300456: RPG_Game_Icons1_228
+    21300458: RPG_Game_Icons1_229
+    21300460: RPG_Game_Icons1_230
+    21300462: RPG_Game_Icons1_231
+    21300464: RPG_Game_Icons1_232
+    21300466: RPG_Game_Icons1_233
+    21300468: RPG_Game_Icons1_234
+    21300470: RPG_Game_Icons1_235
+    21300472: RPG_Game_Icons1_236
+    21300474: RPG_Game_Icons1_237
+    21300476: RPG_Game_Icons1_238
+    21300478: RPG_Game_Icons1_239
+    21300480: RPG_Game_Icons1_240
+    21300482: RPG_Game_Icons1_241
+    21300484: RPG_Game_Icons1_242
+    21300486: RPG_Game_Icons1_243
+    21300488: RPG_Game_Icons1_244
+    21300490: RPG_Game_Icons1_245
+    21300492: RPG_Game_Icons1_246
+    21300494: RPG_Game_Icons1_247
+    21300496: RPG_Game_Icons1_248
+    21300498: RPG_Game_Icons1_249
+    21300500: RPG_Game_Icons1_250
+    21300502: RPG_Game_Icons1_251
+    21300504: RPG_Game_Icons1_252
+    21300506: RPG_Game_Icons1_253
+    21300508: RPG_Game_Icons1_254
+    21300510: RPG_Game_Icons1_255
+    21300512: RPG_Game_Icons1_256
+    21300514: RPG_Game_Icons1_257
+    21300516: RPG_Game_Icons1_258
+    21300518: RPG_Game_Icons1_259
+    21300520: RPG_Game_Icons1_260
+    21300522: RPG_Game_Icons1_261
+    21300524: RPG_Game_Icons1_262
+    21300526: RPG_Game_Icons1_263
+    21300528: RPG_Game_Icons1_264
+    21300530: RPG_Game_Icons1_265
+    21300532: RPG_Game_Icons1_266
+    21300534: RPG_Game_Icons1_267
+    21300536: RPG_Game_Icons1_268
+    21300538: RPG_Game_Icons1_269
+    21300540: RPG_Game_Icons1_270
+    21300542: RPG_Game_Icons1_271
+    21300544: RPG_Game_Icons1_272
+    21300546: RPG_Game_Icons1_273
+    21300548: RPG_Game_Icons1_274
+    21300550: RPG_Game_Icons1_275
+    21300552: RPG_Game_Icons1_276
+    21300554: RPG_Game_Icons1_277
+    21300556: RPG_Game_Icons1_278
+    21300558: RPG_Game_Icons1_279
+    21300560: RPG_Game_Icons1_280
+    21300562: RPG_Game_Icons1_281
+    21300564: RPG_Game_Icons1_282
+    21300566: RPG_Game_Icons1_283
+    21300568: RPG_Game_Icons1_284
+    21300570: RPG_Game_Icons1_285
+    21300572: RPG_Game_Icons1_286
+    21300574: RPG_Game_Icons1_287
+    21300576: RPG_Game_Icons1_288
+    21300578: RPG_Game_Icons1_289
+    21300580: RPG_Game_Icons1_290
+    21300582: RPG_Game_Icons1_291
+    21300584: RPG_Game_Icons1_292
+    21300586: RPG_Game_Icons1_293
+    21300588: RPG_Game_Icons1_294
+    21300590: RPG_Game_Icons1_295
+    21300592: RPG_Game_Icons1_296
+    21300594: RPG_Game_Icons1_297
+    21300596: RPG_Game_Icons1_298
+    21300598: RPG_Game_Icons1_299
+    21300600: RPG_Game_Icons1_300
+    21300602: RPG_Game_Icons1_301
+    21300604: RPG_Game_Icons1_302
+    21300606: RPG_Game_Icons1_303
+    21300608: RPG_Game_Icons1_304
+    21300610: RPG_Game_Icons1_305
+    21300612: RPG_Game_Icons1_306
+    21300614: RPG_Game_Icons1_307
+    21300616: RPG_Game_Icons1_308
+    21300618: RPG_Game_Icons1_309
+    21300620: RPG_Game_Icons1_310
+    21300622: RPG_Game_Icons1_311
+    21300624: RPG_Game_Icons1_312
+    21300626: RPG_Game_Icons1_313
+    21300628: RPG_Game_Icons1_314
+    21300630: RPG_Game_Icons1_315
+    21300632: RPG_Game_Icons1_316
+    21300634: RPG_Game_Icons1_317
+    21300636: RPG_Game_Icons1_318
+    21300638: RPG_Game_Icons1_319
+    21300640: RPG_Game_Icons1_320
+    21300642: RPG_Game_Icons1_321
+    21300644: RPG_Game_Icons1_322
+    21300646: RPG_Game_Icons1_323
+    21300648: RPG_Game_Icons1_324
+    21300650: RPG_Game_Icons1_325
+    21300652: RPG_Game_Icons1_326
+    21300654: RPG_Game_Icons1_327
+    21300656: RPG_Game_Icons1_328
+    21300658: RPG_Game_Icons1_329
+    21300660: RPG_Game_Icons1_330
+    21300662: RPG_Game_Icons1_331
+    21300664: RPG_Game_Icons1_332
+    21300666: RPG_Game_Icons1_333
+    21300668: RPG_Game_Icons1_334
+    21300670: RPG_Game_Icons1_335
+    21300672: RPG_Game_Icons1_336
+    21300674: RPG_Game_Icons1_337
+    21300676: RPG_Game_Icons1_338
+    21300678: RPG_Game_Icons1_339
+    21300680: RPG_Game_Icons1_340
+    21300682: RPG_Game_Icons1_341
+    21300684: RPG_Game_Icons1_342
+    21300686: RPG_Game_Icons1_343
+    21300688: RPG_Game_Icons1_344
+    21300690: RPG_Game_Icons1_345
+    21300692: RPG_Game_Icons1_346
+    21300694: RPG_Game_Icons1_347
+    21300696: RPG_Game_Icons1_348
+    21300698: RPG_Game_Icons1_349
+    21300700: RPG_Game_Icons1_350
+    21300702: RPG_Game_Icons1_351
+    21300704: RPG_Game_Icons1_352
+    21300706: RPG_Game_Icons1_353
+    21300708: RPG_Game_Icons1_354
+    21300710: RPG_Game_Icons1_355
+    21300712: RPG_Game_Icons1_356
+    21300714: RPG_Game_Icons1_357
+    21300716: RPG_Game_Icons1_358
+    21300718: RPG_Game_Icons1_359
+    21300720: RPG_Game_Icons1_360
+    21300722: RPG_Game_Icons1_361
+    21300724: RPG_Game_Icons1_362
+    21300726: RPG_Game_Icons1_363
+    21300728: RPG_Game_Icons1_364
+    21300730: RPG_Game_Icons1_365
+    21300732: RPG_Game_Icons1_366
+    21300734: RPG_Game_Icons1_367
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_11
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_12
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_14
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_23
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_24
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_25
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_26
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_27
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_29
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_30
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_31
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_39
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_40
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_41
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_42
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_43
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_44
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_45
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_46
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_47
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_57
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_59
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_60
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_61
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_62
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_63
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_71
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_72
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_73
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_74
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_75
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_76
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_77
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_78
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_79
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_84
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_86
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_88
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_89
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_90
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_91
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_92
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_93
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_94
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_95
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1091
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_101
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_102
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_103
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_104
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_105
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_106
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_107
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_108
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_109
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_110
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_111
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_113
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_114
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_115
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_116
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_117
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_118
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_119
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_120
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_121
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_122
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_123
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_124
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_125
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_126
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_127
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_129
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_130
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_132
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_134
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_135
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_136
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_137
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_138
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_139
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_140
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_141
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_142
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_143
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_144
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_145
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_146
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_147
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_148
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_149
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_150
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_151
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_152
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_153
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_154
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_155
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_156
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_157
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_158
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_159
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_161
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_162
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_163
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_164
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_165
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_166
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_167
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_168
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_169
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_170
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_171
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_172
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_173
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_174
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_175
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_176
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_177
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_178
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_179
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_180
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_181
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_182
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_183
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_184
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_185
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_186
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_187
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_188
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_189
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_190
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_191
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_192
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_193
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_194
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_195
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_196
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_197
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_198
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_199
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_200
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_201
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_202
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_203
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_204
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_205
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_206
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_207
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 643
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_208
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_209
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_210
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_211
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_212
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_213
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_214
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_215
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_216
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_217
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_218
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_219
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_220
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_221
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_222
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_223
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_224
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_225
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_226
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_227
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_228
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_229
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_230
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_231
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_232
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_233
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_234
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_235
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_236
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_237
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_238
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_239
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 515
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_240
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_241
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_242
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_243
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_244
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_245
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_246
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_247
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_248
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_249
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_250
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_251
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_252
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_253
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_254
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_255
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_256
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_257
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_258
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_259
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_260
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_261
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_262
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_263
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_264
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_265
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_266
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_267
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_268
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_269
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_270
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_271
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 387
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_272
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_273
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_274
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_275
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_276
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_277
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_278
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_279
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_280
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_281
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_282
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_283
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_284
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_285
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_286
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_287
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_288
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_289
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_290
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_291
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_292
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_293
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_294
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_295
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_296
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_297
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_298
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_299
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_300
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_301
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_302
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_303
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_304
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_305
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_306
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_307
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_308
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_309
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_310
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_311
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_312
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_313
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_314
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_315
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_316
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_317
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_318
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_319
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_320
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_321
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_322
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_323
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_324
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_325
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_326
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_327
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_328
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_329
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_330
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_331
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_332
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_333
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_334
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_335
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_336
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_337
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_338
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_339
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_340
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_341
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_342
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_343
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_344
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_345
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_346
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_347
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_348
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_349
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_350
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_351
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_352
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_353
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_354
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_355
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_356
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_357
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_358
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_359
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_360
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_361
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_362
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_363
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_364
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_365
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_366
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG_Game_Icons1_367
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
